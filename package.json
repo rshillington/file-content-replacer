@@ -28,7 +28,7 @@
     "jest": "^24.9.0"
   },
   "dependencies": {
-    "@actions/core": "^1.2.0",
+    "@actions/core": "^1.2.6",
     "replace-in-file": "^5.0.2"
   }
 }
